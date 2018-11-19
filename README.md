@@ -6,3 +6,5 @@ this my first GitHub project
 测试sourcetree
 
 1
+
+测试pull按远程库
